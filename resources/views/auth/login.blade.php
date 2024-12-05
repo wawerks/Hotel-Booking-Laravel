@@ -67,11 +67,6 @@
                             </div>
                         </div>
                         <div class="row mt-3">
-                            <div class="col-md-8 offset-md-4">
-                                <a href="{{ route('auth.google') }}" class="btn btn-danger">
-                                    <i class="fab fa-google"></i> Continue with Google
-                                </a>
-                            </div>
                         </div>
                     </form>
                 </div>

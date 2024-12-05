@@ -62,10 +62,15 @@
                         </div>
 
                         <div class="row mb-0">
-                            <div class="col-md-6 offset-md-4">
+                            <div class="col-md-8 offset-md-4">
                                 <button type="submit" class="btn btn-primary">
                                     {{ __('Register') }}
                                 </button>
+                            </div>
+                            <div class="col-md-8 offset-md-4">
+                                <a href="{{ route('auth.google') }}" class="btn btn-danger">
+                                    <i class="fab fa-google"></i> Continue with Google
+                                </a>
                             </div>
                         </div>
                     </form>
