@@ -1,0 +1,19 @@
+body{
+    background-color: #16423C;
+}
+
+.custom-color {
+    color: #000000;
+    background-color: #6A9C89;
+    }
+
+input::placeholder {
+    font-size: 14px; /* Adjust the size as needed */
+     color: #999; /* Optionally change the color */
+}
+
+.logo {
+    max-width: 150px; /* Adjust the size of the logo */
+    margin-bottom: 10px;
+}
+

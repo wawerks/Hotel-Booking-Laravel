@@ -1,0 +1,24 @@
+ /* Placeholder text styling */
+ input::placeholder {
+    font-size: 14px;
+    color: #ccc;
+}
+
+/* Background gradient styling */
+.gradient-custom {
+    background: #16423C;
+}
+
+.card {
+    border-radius: 1rem;
+}
+
+.btn-custom {
+    border-color: #ffffff;
+}
+
+.btn-custom:hover {
+    background-color: #ffffff;
+    color: #000000;
+}
+
